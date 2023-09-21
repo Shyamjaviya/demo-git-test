@@ -1,5 +1,5 @@
 class HomeController < ApplicationController
   def index
-	@hello = hello
+	@hello = hello123
   end
 end
